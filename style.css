@@ -1,10 +1,10 @@
 /* Tag selector to select the 'body' element */
 body {
   /* Your code here! */\
- width: 700px
+ width: 700px;
   margin:auto;
   font-family: "Helvetica Neue"
-  background-color: white
+  background-color: white;
   padding: 30px 
 }
 
